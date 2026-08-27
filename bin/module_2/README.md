@@ -5,5 +5,5 @@ Topics:
 - Loops
 - Functions
 - Lists
-- Maps
+- Sets
 - Git
